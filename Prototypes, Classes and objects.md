@@ -34,6 +34,6 @@
 - if we define an interface we need to use implements Interface while for classes it is extends Class
 
 
-### Take a look at the factory
+### Take a look at the factory #DONE 
 ### Work with the prototype chain
 ### See examples of the design pattern
