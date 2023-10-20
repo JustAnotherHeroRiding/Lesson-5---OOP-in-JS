@@ -35,5 +35,5 @@
 
 
 ### Take a look at the factory #DONE 
-### Work with the prototype chain
-### See examples of the design pattern
+### Work with the prototype chain #DONE 
+### See examples of the design pattern #DONE 
